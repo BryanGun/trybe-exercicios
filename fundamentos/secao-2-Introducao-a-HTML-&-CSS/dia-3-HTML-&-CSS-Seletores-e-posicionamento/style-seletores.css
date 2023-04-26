@@ -1,0 +1,25 @@
+h1, p, ol, ul{
+    text-align: center;
+}
+
+ol:hover{
+    background-color: brown;
+}
+
+ul:hover{
+    background-color: rgb(70, 139, 70);
+}
+
+li:active{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-weight: bold;
+}
+
+li {
+    list-style: none;
+}
+
+body{
+    background-color: rgb(145, 145, 145);
+}
