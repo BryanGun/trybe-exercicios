@@ -12,7 +12,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 
 ##### Seção 2: [Introdução à HTML & CSS](https://github.com/BryanGun/trybe-exercicios/tree/main/fundamentos/secao-1)
 - [x] 1 - HTML & CSS - Estruturas de página
-- [ ] 2 - HTML & CSS - Primeiros passos em CSS
+- [x] 2 - HTML & CSS - Primeiros passos em CSS
 - [ ] 3 - HTML & CSS - Seletores e posicionamento
 - [ ] 4 - HTML Semântic
 - [ ] 5 - Projeto - Lessons Learned
