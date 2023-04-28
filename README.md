@@ -14,5 +14,5 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 1 - HTML & CSS - Estruturas de página
 - [x] 2 - HTML & CSS - Primeiros passos em CSS
 - [x] 3 - HTML & CSS - Seletores e posicionamento
-- [ ] 4 - HTML Semântic
+- [x] 4 - HTML Semântic
 - [ ] 5 - Projeto - Lessons Learned
