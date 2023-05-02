@@ -10,9 +10,17 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 2 - Git - O que é e para que serve
 - [x] 3 - Git & GitHub - Entendendo os comandos
 
-##### Seção 2: [Introdução à HTML & CSS](https://github.com/BryanGun/trybe-exercicios/tree/main/fundamentos/secao-1)
+##### Seção 2: [Introdução à HTML & CSS](https://github.com/BryanGun/trybe-exercicios/tree/main/fundamentos/secao-2-Introducao-a-HTML-%26-CSS) :white_check_mark:
 - [x] 1 - HTML & CSS - Estruturas de página
 - [x] 2 - HTML & CSS - Primeiros passos em CSS
 - [x] 3 - HTML & CSS - Seletores e posicionamento
 - [x] 4 - HTML Semântic
-- [ ] 5 - Projeto - Lessons Learned
+- [x] 5 - Projeto - Lessons Learned
+
+##### Seção 3: [Introdução à JavaScript](https://github.com/BryanGun/trybe-exercicios/tree/main/fundamentos/secao-3-Introducao-a-javascript)
+- [x] 1 - JavaScript - Primeiros passos
+- [ ] 2 - JavaScript - Array e loop For
+- [ ] 3 - JavaScript - Funções
+- [ ] 4 - JavaScript - Objetos
+- [ ] 5 - JavaScript ES6 - let, const, arrow functions e template literals
+- [ ] 6 - Projeto - Playground Functions
