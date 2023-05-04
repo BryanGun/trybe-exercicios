@@ -19,8 +19,8 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 
 ##### Seção 3: [Introdução à JavaScript](https://github.com/BryanGun/trybe-exercicios/tree/main/fundamentos/secao-3-Introducao-a-javascript)
 - [x] 1 - JavaScript - Primeiros passos
-- [ ] 2 - JavaScript - Array e loop For
-- [ ] 3 - JavaScript - Funções
+- [x] 2 - JavaScript - Array e loop For
+- [x] 3 - JavaScript - Funções
 - [ ] 4 - JavaScript - Objetos
 - [ ] 5 - JavaScript ES6 - let, const, arrow functions e template literals
 - [ ] 6 - Projeto - Playground Functions
