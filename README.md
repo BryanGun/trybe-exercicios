@@ -21,6 +21,6 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 1 - JavaScript - Primeiros passos
 - [x] 2 - JavaScript - Array e loop For
 - [x] 3 - JavaScript - Funções
-- [ ] 4 - JavaScript - Objetos
+- [x] 4 - JavaScript - Objetos
 - [ ] 5 - JavaScript ES6 - let, const, arrow functions e template literals
 - [ ] 6 - Projeto - Playground Functions
