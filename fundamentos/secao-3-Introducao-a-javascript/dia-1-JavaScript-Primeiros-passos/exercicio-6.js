@@ -1,6 +1,6 @@
 let pecaXadrez = 'bispo';
 
-switch (chessPiece.toLowerCase()) {
+switch (pecaXadrez.toLowerCase()) {
   case 'rei':
     console.log('Rei - Pode mover-se em qualquer direção, porém apenas uma casa por vez');
     break;
