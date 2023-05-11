@@ -17,10 +17,18 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 4 - HTML Semântic
 - [x] 5 - Projeto - Lessons Learned
 
-##### Seção 3: [Introdução à JavaScript](https://github.com/BryanGun/trybe-exercicios/tree/main/fundamentos/secao-3-Introducao-a-javascript)
+##### Seção 3: [Introdução à JavaScript](https://github.com/BryanGun/trybe-exercicios/tree/main/fundamentos/secao-3-Introducao-a-javascript) :white_check_mark:
 - [x] 1 - JavaScript - Primeiros passos
 - [x] 2 - JavaScript - Array e loop For
 - [x] 3 - JavaScript - Funções
 - [x] 4 - JavaScript - Objetos
 - [x] 5 - JavaScript ES6 - let, const, arrow functions e template literals
 - [x] 6 - Projeto - Playground Functions
+
+##### Seção 4: [JavaScript: DOM, Eventos e Web Storage](https://github.com/BryanGun/trybe-exercicios/tree/main/fundamentos/secao-3-Introducao-a-javascript)
+- [] 1 - JavaScript - Primeiros passos
+- [] 2 - JavaScript - Array e loop For
+- [] 3 - JavaScript - Funções
+- [] 4 - JavaScript - Objetos
+- [] 5 - JavaScript ES6 - let, const, arrow functions e template literals
+- [] 6 - Projeto - Playground Functions
