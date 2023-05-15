@@ -28,7 +28,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 ##### Seção 4: [JavaScript: DOM, Eventos e Web Storage](fundamentos/secao-4-JavaScript:DOM-Eventos-e-Web-Storage)
 - [x] 1 - JavaScript - DOM e seletores
 - [x] 2 - JavaScript - Trabalhando com elementos
-- [ ] 3 - JavaScript - Eventos
+- [x] 3 - JavaScript - Eventos
 - [ ] 4 - JavaScript - Web Storage
 - [ ] 5 - Projeto - Arte com Pixel
 - [ ] 6 - Projetos - Bônus
