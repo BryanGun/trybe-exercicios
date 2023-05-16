@@ -29,6 +29,6 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 1 - JavaScript - DOM e seletores
 - [x] 2 - JavaScript - Trabalhando com elementos
 - [x] 3 - JavaScript - Eventos
-- [ ] 4 - JavaScript - Web Storage
+- [x] 4 - JavaScript - Web Storage
 - [ ] 5 - Projeto - Arte com Pixel
 - [ ] 6 - Projetos - Bônus
