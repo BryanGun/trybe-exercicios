@@ -32,3 +32,11 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 4 - JavaScript - Web Storage
 - [x] 5 - Projeto - Arte com Pixel
 - [x] 6 - Projetos - Bônus
+
+##### Seção 5: [HTML e CSS: Forms, Flexbox e Responsivo](fundamentos/secao-4-JavaScript:DOM-Eventos-e-Web-Storage)
+- [ ] 1 - HTML & CSS - Forms
+- [ ] 2 - Bibliotecas JavaScript e Frameworks CSS
+- [ ] 3 - CSS Flexbox - Parte 1
+- [ ] 4 - CSS Flexbox - Parte 2
+- [ ] 5 - Responsividade
+- [ ] 6 - Projeto - Trybewarts
