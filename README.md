@@ -25,7 +25,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 5 - JavaScript ES6 - let, const, arrow functions e template literals
 - [x] 6 - Projeto - Playground Functions
 
-##### Seção 4: [JavaScript: DOM, Eventos e Web Storage](fundamentos/secao-4-JavaScript:DOM-Eventos-e-Web-Storage) :white_check_mark:
+##### Seção 4: [JavaScript: DOM, Eventos e Web Storage](https://github.com/BryanGun/trybe-exercicios/tree/main/fundamentos/secao-4-JavaScript%3ADOM-Eventos-e-Web-Storage) :white_check_mark:
 - [x] 1 - JavaScript - DOM e seletores
 - [x] 2 - JavaScript - Trabalhando com elementos
 - [x] 3 - JavaScript - Eventos
