@@ -33,7 +33,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 5 - Projeto - Arte com Pixel
 - [x] 6 - Projetos - Bônus
 
-##### Seção 5: [HTML e CSS: Forms, Flexbox e Responsivo](fundamentos/secao-4-JavaScript:DOM-Eventos-e-Web-Storage)
+##### Seção 5: [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/BryanGun/trybe-exercicios/tree/main/fundamentos/secao-5-HTML-e-CSS%3AForms-Flexbox-e-Responsivo)
 - [ ] 1 - HTML & CSS - Forms
 - [ ] 2 - Bibliotecas JavaScript e Frameworks CSS
 - [ ] 3 - CSS Flexbox - Parte 1
