@@ -34,9 +34,9 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 6 - Projetos - Bônus
 
 ##### Seção 5: [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/BryanGun/trybe-exercicios/tree/main/fundamentos/secao-5-HTML-e-CSS%3AForms-Flexbox-e-Responsivo)
-- [ ] 1 - HTML & CSS - Forms
-- [ ] 2 - Bibliotecas JavaScript e Frameworks CSS
-- [ ] 3 - CSS Flexbox - Parte 1
+- [x] 1 - HTML & CSS - Forms
+- [x] 2 - Bibliotecas JavaScript e Frameworks CSS
+- [x] 3 - CSS Flexbox - Parte 1
 - [ ] 4 - CSS Flexbox - Parte 2
 - [ ] 5 - Responsividade
 - [ ] 6 - Projeto - Trybewarts
