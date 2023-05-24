@@ -37,6 +37,6 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 1 - HTML & CSS - Forms
 - [x] 2 - Bibliotecas JavaScript e Frameworks CSS
 - [x] 3 - CSS Flexbox - Parte 1
-- [ ] 4 - CSS Flexbox - Parte 2
+- [x] 4 - CSS Flexbox - Parte 2
 - [ ] 5 - Responsividade
 - [ ] 6 - Projeto - Trybewarts
