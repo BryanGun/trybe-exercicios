@@ -38,5 +38,5 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 2 - Bibliotecas JavaScript e Frameworks CSS
 - [x] 3 - CSS Flexbox - Parte 1
 - [x] 4 - CSS Flexbox - Parte 2
-- [ ] 5 - Responsividade
+- [x] 5 - Responsividade
 - [ ] 6 - Projeto - Trybewarts
