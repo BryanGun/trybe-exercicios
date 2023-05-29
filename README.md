@@ -39,4 +39,4 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 3 - CSS Flexbox - Parte 1
 - [x] 4 - CSS Flexbox - Parte 2
 - [x] 5 - Responsividade
-- [ ] 6 - Projeto - Trybewarts
+- [x] 6 - Projeto - Trybewarts
