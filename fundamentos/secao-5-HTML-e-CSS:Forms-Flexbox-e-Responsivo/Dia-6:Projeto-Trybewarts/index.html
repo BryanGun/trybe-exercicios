@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Trybewarts</title>
+  <style>
+    /* Estilos CSS */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 10px;
+    }
+
+    #logo {
+      width: 50px;
+      height: 50px;
+      margin-right: 10px;
+    }
+
+    #logo img {
+      width: 100%;
+      height: 100%;
+    }
+
+    #title {
+      font-size: 20px;
+      font-weight: bold;
+    }
+
+    .grid-container {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-gap: 20px;
+      max-width: 1400px;
+      margin: 20px auto;
+    }
+
+    form {
+      display: flex;
+      flex-direction: column;
+    }
+
+    form label {
+      margin-bottom: 5px;
+    }
+
+    form input,
+    form select {
+      margin-bottom: 10px;
+    }
+
+    #image-container {
+      text-align: center;
+    }
+
+    #image-container img {
+      max-width: 1000px;
+      height: auto;
+    }
+
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div id="logo">
+      <img src="https://img.fruugo.com/product/0/49/96860490_max.jpg" alt="Hogwarts Logo">
+    </div>
+    <div id="title">Trybewarts</div>
+    <div>
+      <form>
+        <label for="login">Login:</label>
+        <input type="text" id="login">
+        <label for="password">Senha:</label>
+        <input type="password" id="password">
+        <button type="submit">Logar</button>
+      </form>
+    </div>
+  </header>
+
+  <div class="grid-container">
+    <div>
+      <form>
+        <h2>Forms</h2>
+        <label for="firstName">Nome:</label>
+        <input type="text" id="firstName">
+        <label for="lastName">Sobrenome:</label>
+        <input type="text" id="lastName">
+        <label for="email">Email:</label>
+        <input type="email" id="email">
+        <label for="house">Casa:</label>
+        <select id="house">
+          <option value="grifinoria">Grifinória</option>
+          <option value="sonserina">Sonserina</option>
+          <option value="corvinal">Corvinal</option>
+          <option value="lufa-lufa">Lufa-lufa</option>
+        </select>
+      </form>
+
+      <form>
+        <h2>Qual a sua família?</h2>
+        <input type="radio" id="frontend" name="familia" value="frontend">
+        <label for="frontend">Família Frontend</label><br>
+        <input type="radio" id="backend" name="familia" value="backend">
+        <label for="backend">Família Backend</label><br>
+        <input type="radio" id="fullstack" name="familia" value="fullstack">
+        <label for="fullstack">Família Fullstack</label><br>
+      </form>
+
+      <form>
+        <h2>Qual conteúdo você está com mais vontade de aprender?</h2>
+        <input type="checkbox" id="hof" name="conteudo" value="hof">
+        <label for="hof">HoFs</label><br>
+        <input type="checkbox" id="jest" name="conteudo" value="jest">
+        <label for="jest">Jest</label><br>
+        <input type="checkbox" id="promises" name="conteudo" value="promises">
+        <label for="promises">Promises</label><br>
+        <input type="checkbox" id="react" name="conteudo" value="react">
+        <label for="react">React</label><br>
+        <input type="checkbox" id="sql" name="conteudo" value="sql">
+        <label for="sql">SQL</label><br>
+        <input type="checkbox" id="python" name="conteudo" value="python">
+        <label for="python">Python</label><br>
+      </form>
+
+      <form>
+        <h2>Como você avalia Trybewarts?</h2>
+        <select id="rating">
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+          <option value="6">6</option>
+          <option value="7">7</option>
+          <option value="8">8</option>
+          <option value="9">9</option>
+          <option value="10">10</option>
+        </select>
+      </form>
+
+      <form>
+        <h2>Deixe um comentário:</h2>
+        <textarea id="comment"></textarea>
+      </form>
+    </div>
+
+    <div id="image-container">
+      <img src="https://logosmarcas.net/wp-content/uploads/2020/12/Hogwarts-Logo-650x366.png" alt="Hogwarts Brasão">
+    </div>
+  </div>
+
+  <footer>
+    <p>Direitos reservados a Trybewarts&copy;</p>
+  </footer>
+</body>
+</html>
