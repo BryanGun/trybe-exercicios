@@ -33,10 +33,17 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 5 - Projeto - Arte com Pixel
 - [x] 6 - Projetos - Bônus
 
-##### Seção 5: [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/BryanGun/trybe-exercicios/tree/main/fundamentos/secao-5-HTML-e-CSS%3AForms-Flexbox-e-Responsivo)
+##### Seção 5: [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/BryanGun/trybe-exercicios/tree/main/fundamentos/secao-5-HTML-e-CSS%3AForms-Flexbox-e-Responsivo) :white_check_mark:
 - [x] 1 - HTML & CSS - Forms
 - [x] 2 - Bibliotecas JavaScript e Frameworks CSS
 - [x] 3 - CSS Flexbox - Parte 1
 - [x] 4 - CSS Flexbox - Parte 2
 - [x] 5 - Responsividade
 - [x] 6 - Projeto - Trybewarts
+
+
+##### Seção 6: [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/BryanGun/trybe-exercicios/tree/main/fundamentos/secao-5-HTML-e-CSS%3AForms-Flexbox-e-Responsivo) 
+- [ ] 1 - Fluxo de exceções
+- [ ] 2 - Primeiros passos em Jest
+- [ ] 3 - Matchers e cobertura de código
+- [ ] 4 - JavaScript Testes Unitários
