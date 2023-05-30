@@ -44,6 +44,6 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 
 ##### Seção 6: [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/BryanGun/trybe-exercicios/tree/main/fundamentos/secao-5-HTML-e-CSS%3AForms-Flexbox-e-Responsivo) 
 - [x] 1 - Fluxo de exceções
-- [ ] 2 - Primeiros passos em Jest
+- [x] 2 - Primeiros passos em Jest
 - [ ] 3 - Matchers e cobertura de código
 - [ ] 4 - JavaScript Testes Unitários
