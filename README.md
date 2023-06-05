@@ -42,14 +42,14 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 6 - Projeto - Trybewarts
 
 
-##### Seção 6: [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/BryanGun/trybe-exercicios/tree/main/fundamentos/secao-6-Introdu%C3%A7%C3%A3o-JavaScript-ES6-e-Testes-Unitarios) 
+##### Seção 6: [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/BryanGun/trybe-exercicios/tree/main/fundamentos/secao-6-Introdu%C3%A7%C3%A3o-JavaScript-ES6-e-Testes-Unitarios) :white_check_mark:
 - [x] 1 - Fluxo de exceções
 - [x] 2 - Primeiros passos em Jest
 - [x] 3 - Matchers e cobertura de código
 - [x] 4 - JavaScript Testes Unitários
 
 
-##### Seção 7: [Higher Order Functions do JavaScript ES6](https://github.com/BryanGun/trybe-exercicios/tree/main/fundamentos/secao-5-HTML-e-CSS%3AForms-Flexbox-e-Responsivo) :white_check_mark:
+##### Seção 7: [Higher Order Functions do JavaScript ES6](https://github.com/BryanGun/trybe-exercicios/tree/main/fundamentos/secao-5-HTML-e-CSS%3AForms-Flexbox-e-Responsivo)
 - [x] 1 - Introdução a Higher Order Functions
 - [ ] 2 - Higher Order Functions - sort e map
 - [ ] 3 - Higher Order Functions - filter e reduce
