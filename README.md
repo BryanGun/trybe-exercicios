@@ -47,3 +47,12 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 2 - Primeiros passos em Jest
 - [x] 3 - Matchers e cobertura de código
 - [x] 4 - JavaScript Testes Unitários
+
+
+##### Seção 7: [Higher Order Functions do JavaScript ES6](https://github.com/BryanGun/trybe-exercicios/tree/main/fundamentos/secao-5-HTML-e-CSS%3AForms-Flexbox-e-Responsivo) :white_check_mark:
+- [x] 1 - Introdução a Higher Order Functions
+- [ ] 2 - Higher Order Functions - sort e map
+- [ ] 3 - Higher Order Functions - filter e reduce
+- [ ] 4 - JavaScript ES6 - spread operator, rest parameters e object destructuring
+- [ ] 5 - JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters
+- [ ] 6 - Projeto - Zoo functions
