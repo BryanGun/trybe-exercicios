@@ -45,5 +45,5 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 ##### Seção 6: [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/BryanGun/trybe-exercicios/tree/main/fundamentos/secao-6-Introdu%C3%A7%C3%A3o-JavaScript-ES6-e-Testes-Unitarios) 
 - [x] 1 - Fluxo de exceções
 - [x] 2 - Primeiros passos em Jest
-- [ ] 3 - Matchers e cobertura de código
-- [ ] 4 - JavaScript Testes Unitários
+- [x] 3 - Matchers e cobertura de código
+- [x] 4 - JavaScript Testes Unitários
