@@ -5,19 +5,19 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 
 ## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
-##### Seção 1: [Unix, Shell & Git](https://github.com/BryanGun/trybe-exercicios/tree/main/fundamentos/secao-1) :white_check_mark:
+##### Seção 1: [Unix, Shell & Git](fundamentos/secao-1) :white_check_mark:
 - [x] 1 - Unix & Shell 
 - [x] 2 - Git - O que é e para que serve
 - [x] 3 - Git & GitHub - Entendendo os comandos
 
-##### Seção 2: [Introdução à HTML & CSS](https://github.com/BryanGun/trybe-exercicios/tree/main/fundamentos/secao-2-Introducao-a-HTML-%26-CSS) :white_check_mark:
+##### Seção 2: [Introdução à HTML & CSS](fundamentos/secao-2-Introducao-a-HTML-%26-CSS) :white_check_mark:
 - [x] 1 - HTML & CSS - Estruturas de página
 - [x] 2 - HTML & CSS - Primeiros passos em CSS
 - [x] 3 - HTML & CSS - Seletores e posicionamento
 - [x] 4 - HTML Semântic
 - [x] 5 - Projeto - Lessons Learned
 
-##### Seção 3: [Introdução à JavaScript](https://github.com/BryanGun/trybe-exercicios/tree/main/fundamentos/secao-3-Introducao-a-javascript) :white_check_mark:
+##### Seção 3: [Introdução à JavaScript](fundamentos/secao-3-Introducao-a-javascript) :white_check_mark:
 - [x] 1 - JavaScript - Primeiros passos
 - [x] 2 - JavaScript - Array e loop For
 - [x] 3 - JavaScript - Funções
@@ -25,7 +25,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 5 - JavaScript ES6 - let, const, arrow functions e template literals
 - [x] 6 - Projeto - Playground Functions
 
-##### Seção 4: [JavaScript: DOM, Eventos e Web Storage](https://github.com/BryanGun/trybe-exercicios/tree/main/fundamentos/secao-4-JavaScript%3ADOM-Eventos-e-Web-Storage) :white_check_mark:
+##### Seção 4: [JavaScript: DOM, Eventos e Web Storage](fundamentos/secao-4-JavaScript%3ADOM-Eventos-e-Web-Storage) :white_check_mark:
 - [x] 1 - JavaScript - DOM e seletores
 - [x] 2 - JavaScript - Trabalhando com elementos
 - [x] 3 - JavaScript - Eventos
@@ -33,7 +33,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 5 - Projeto - Arte com Pixel
 - [x] 6 - Projetos - Bônus
 
-##### Seção 5: [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/BryanGun/trybe-exercicios/tree/main/fundamentos/secao-5-HTML-e-CSS%3AForms-Flexbox-e-Responsivo) :white_check_mark:
+##### Seção 5: [HTML e CSS: Forms, Flexbox e Responsivo](fundamentos/secao-5-HTML-e-CSS%3AForms-Flexbox-e-Responsivo) :white_check_mark:
 - [x] 1 - HTML & CSS - Forms
 - [x] 2 - Bibliotecas JavaScript e Frameworks CSS
 - [x] 3 - CSS Flexbox - Parte 1
