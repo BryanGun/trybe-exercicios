@@ -42,7 +42,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 6 - Projeto - Trybewarts
 
 
-##### Seção 6: [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/BryanGun/trybe-exercicios/tree/main/fundamentos/secao-6-Introdu%C3%A7%C3%A3o-JavaScript-ES6-e-Testes-Unitarios) :white_check_mark:
+##### Seção 6: [Introdução à JavaScript ES6 e Testes Unitários](fundamentos/secao-6-Introdu%C3%A7%C3%A3o-JavaScript-ES6-e-Testes-Unitarios) :white_check_mark:
 - [x] 1 - Fluxo de exceções
 - [x] 2 - Primeiros passos em Jest
 - [x] 3 - Matchers e cobertura de código
