@@ -55,4 +55,4 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 3 - Higher Order Functions - filter e reduce
 - [x] 4 - JavaScript ES6 - spread operator, rest parameters e object destructuring
 - [x] 5 - JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters
-- [ ] 6 - Projeto - Zoo functions
+- [x] 6 - Projeto - Zoo functions
