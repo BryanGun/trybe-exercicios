@@ -3,7 +3,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 
 >"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais."
 
-## Fundamentos do Desenvolvimento Web :green_check_mark:
+## Fundamentos do Desenvolvimento Web :heavy_check_mark:
 
 ##### Seção 1: [Unix, Shell & Git](fundamentos/secao-1) :white_check_mark:
 - [x] 1 - Unix & Shell 
@@ -58,3 +58,10 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 6 - Projeto - Zoo functions
 
 ## Front-end :hourglass_flowing_sand:
+
+##### Seção 1: [Introdução ao Frontend e JavaScript assíncrono)
+- [ ] 1 - Ambiente de desenvolvimento
+- [ ] 2 - JavaScript Assíncrono - Promises e fetch
+- [ ] 3 - Prática - Casa de Câmbio
+- [ ] 4 - Async, await e testes assíncronos
+- [ ] 5 - Projeto - iChoveu
