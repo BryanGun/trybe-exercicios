@@ -3,7 +3,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 
 >"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais."
 
-## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
+## Fundamentos do Desenvolvimento Web :green_check_mark:
 
 ##### Seção 1: [Unix, Shell & Git](fundamentos/secao-1) :white_check_mark:
 - [x] 1 - Unix & Shell 
@@ -49,10 +49,12 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 4 - JavaScript Testes Unitários
 
 
-##### Seção 7: [Higher Order Functions do JavaScript ES6](fundamentos/secao-7-Higher-Order-Functions-do-JavaScript-ES6)
+##### Seção 7: [Higher Order Functions do JavaScript ES6](fundamentos/secao-7-Higher-Order-Functions-do-JavaScript-ES6) :white_check_mark:
 - [x] 1 - Introdução a Higher Order Functions
 - [x] 2 - Higher Order Functions - sort e map
 - [x] 3 - Higher Order Functions - filter e reduce
 - [x] 4 - JavaScript ES6 - spread operator, rest parameters e object destructuring
 - [x] 5 - JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters
 - [x] 6 - Projeto - Zoo functions
+
+## Front-end :hourglass_flowing_sand:
